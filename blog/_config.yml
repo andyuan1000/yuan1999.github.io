@@ -103,5 +103,5 @@ theme: landscape
 deploy:
   type: git # 不要使用github
   repo: git@github.com:andyuan1000/yuan1999.github.io.git # 使用ssh连接
-  branch: main # 默认master分支
+  branch: master # 默认master分支
   message: add new blog # 自动部署commit备注，可不填
